@@ -1,0 +1,42 @@
+body{
+    margin: 0PX;
+    padding: 0px;
+    background-color: #36494e;
+}
+h1{
+    color: whitesmoke;
+}
+h2{
+    color: red;
+    text-decoration: solid;
+}
+h4{
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    
+}
+div{
+    
+    background-color: white;
+    margin: 0px;
+    padding: 20px;
+    text-decoration: solid;
+    font-size: 30px;
+}
+
+nav ul{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+nav ul li{
+    display:inline-block;
+    margin-left: 20px;
+}
+nav ul li a{
+ text-decoration: white;
+ color: white;
+ font-weight:bolder;
+}

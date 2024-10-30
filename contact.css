@@ -1,0 +1,98 @@
+nav ul{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+
+nav ul li{
+    display:inline-block;
+    margin-left: 20px;
+}
+nav ul li a{
+ text-decoration: white;
+ color: white;
+ font-weight:bolder;
+}
+.content{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(red, green, blue, alpha);
+
+}
+body{
+    background-color:#36494e;
+    margin: 0px;
+    padding-bottom: 20px;
+
+}
+div{
+    padding: 20px;
+    background-color: white;
+    margin: 0px;
+}
+.contact-section {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+
+}
+h1{
+    color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+.contact-info {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.contact-info div {
+    flex: 1;
+    margin: 0 10px;
+}
+
+.contact-info h3 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
+style{
+    .fa-map-marker{
+        font-size: 100px;
+    }
+
+}
+h4{
+    color: white;
+}
+div{
+    font-size: 20px;
+    border: 10px;
+    border-radius: 20px;
+    padding: 3px;
+    .fa-map-marker{
+        font-size: 50px;
+
+}
+.fa-envelope-open{
+    font-size: 50px;
+
+}
+.fa-phone{
+    font-size: 50px;
+    border: 20px;
+    border-radius: 20px;
+    padding: 20px;
+}
+}
